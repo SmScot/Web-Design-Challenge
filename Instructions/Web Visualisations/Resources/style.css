@@ -1,0 +1,47 @@
+.navbar-nav li {
+  background-color: rgb(185, 241, 245);
+  border: 2px solid rgb(0, 0, 0);
+  font-family: "Helvetica", "Helvetica";
+  font-weight: bold;
+  }
+
+  .navbar-brand {
+    background-color: rgb(185, 241, 245);
+    border: 2px solid rgb(0, 0, 0);
+    font-family: "Fantasy", "Luminari";
+    font-weight: bold;
+  }
+
+  .row > div {
+    border: 1px solid grey;
+  } 
+
+body {
+  background-color: rgb(185, 241, 245);
+}
+
+
+h1 {
+  font-family: "Fantasy", "Copperplate";
+  font-weight: bold;
+}
+
+h2 {
+  font-family: "Fantasy", "Copperplate";
+  font-weight: bold;
+}
+
+p {
+  font-family: "Helvetica", "Helvetica";
+  font-size: 22px;
+}
+
+table {
+  width: 60%;
+  border: 4px solid black;
+  background-color: rgb(195, 241, 245);
+}
+
+tr:hover {
+  background-color: rgb(210, 241, 265);
+}
